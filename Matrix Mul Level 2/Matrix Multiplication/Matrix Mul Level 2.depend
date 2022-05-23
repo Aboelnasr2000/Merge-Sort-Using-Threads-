@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1637237922 source:c:\users\alyab\onedrive\desktop\new folder\matrix mul level 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637237922 
+
+1637241017 source:/home/aly2000/Documents/Matrix/Matrix Mul Level 2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+
